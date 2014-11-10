@@ -1,0 +1,7 @@
+floor
+doors
+walls
+trees
+bridge
+objects
+width
